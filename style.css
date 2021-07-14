@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    display: block;
+    margin:10px auto;
+}
+div{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    margin:5px;
+    float: left;
+    color:white;
+    line-height: 30px;
+    text-align: center;
+}
+.circle{
+    border-radius: 50%;
+    background-color: #fff;
+    color:black;
+    border: solid 2px black;
+}
